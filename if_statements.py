@@ -1,7 +1,9 @@
+# Cijfers voor drie vakken
 variable1 = 5
 variable2 = 10
 variable3 = 7
 
+# Bereken het gemiddelde
 gemiddelde = (variable1 + variable2 + variable3) / 3
 
 print("Gemiddelde:", gemiddelde)
